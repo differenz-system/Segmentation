@@ -9,7 +9,7 @@ python iasam_app.py
 
 ## Quick Demo
 
-![Alt text](asset\1.gif "Optional title")
+![Alt text](asset/1.gif "Optional title")
 
 ### Options
 
